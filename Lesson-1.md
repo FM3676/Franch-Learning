@@ -23,3 +23,26 @@
 > It is good here ---> `C'est bon ici` 
 
 > It is fantasic here ---> `C'est fantastique ici`
+
+## Lesson 1b
+
+> It is absolutely fantastic here. ---> `C'est absolument fantastique ici`
+
+6. `très` ---> very
+
+> It is very good ---> `C'est très bon`
+
+> It is very good here---> `C'est très bon ici`
+
+7. `ce ńest pas` ---> it isn't
+
+> It isn't here ---> `Ce ńest pas ici`
+
+> It isn't good ---> `Ce ńest pas bon`
+
+> It isn't very good ---> `Ce ńest pas très bon`
+
+> It isn't fantastic ---> `Ce ńest pas fantastique`
+
+> It isn't very good here ---> `Ce ńest pas très bon ici`
+
