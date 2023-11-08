@@ -46,3 +46,24 @@
 
 > It isn't very good here ---> `Ce ńest pas très bon ici`
 
+## Lesson 1c -- Practise
+
+> It is good ---> `C'est bon` 
+
+> It is avsolutely fantastic here ---> `C'est absolument fantastique ici`
+
+> It is good here ---> `C'est bon ici`
+
+> It is very good ---> `C'est très bon`
+
+> It isn't good here ---> `Ce ńest pas bon ici`
+
+> It isn't good; it is fantastic ---> `Ce ńest pas bon; C'est fantastique`
+
+> It is fantastic ---> `C'est fantastique`
+
+> It is fantastic here. ---> `C'est fantastique ici`
+
+> It isn't good here; it is absolutely fantastic ---> `Ce ńest pas bon ici; C'est absolument fantastique ici`
+
+> It is very good here ---> `C'est très bon ici` 
