@@ -90,3 +90,23 @@
 
 > `Ce ńest pas bon; c'est absolument fantastique` ---> It isn't good; It is absolutely fantastic
 
+## Lesson 1e
+
+### Review
+
+> It is ---> `C'est`
+
+> absolutely ---> `absolument`
+
+> fantastic ---> `fantastique`
+
+> good ---> `bon`
+
+> here ---> `ici`
+
+> very ---> `très`
+
+> it isn't ---> `Ce ńest pas`
+
+8. `Quoi dáutre？` ---> What else?
+
