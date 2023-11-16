@@ -50,3 +50,13 @@ But if you put `pour moi` at the start of a sentence in Franch, you can use it a
 
 > I think it is good ---> `Pour moi, C'est bon.`
 
+## Lesson 2d
+
+> I think it is very good ---> `Pour moi, c'est très bon.`
+
+> I think it is delicious ---> `Pour moi, c'est délicieux`
+
+> I think it is absolutely extraordinary here. ---> `Pour moi, c'est absolument extraordinaire ici.`
+
+> I think it is fantastic here. ---> `Pour moi, c'est fntastique ici.`
+
