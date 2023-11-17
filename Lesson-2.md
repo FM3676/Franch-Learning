@@ -77,3 +77,26 @@ Make a cue card
 > very ---> `très`
 >
 > it isn't ---> `ce ńest pas`
+
+## Lesson 2f -- Practice
+
+> It is very beautiful here ---> `C'est très beau ici`
+
+> It is absolutely beautiful ---> `C'est absolument beau`
+
+> I think it is very good ---> `Pour moi, c'est très bon`
+
+> It is absolutely extraordinary here ---> `C'est absolument extraordinaire ici`
+
+> It isn't for me ---> `Ce ńest pas pour moi`
+
+> It isn't very good for me ---> `Ce ńest pas très bon pour moi`
+
+> It isn't good; it is absolutely extraordinary. ---> `Ce ńest pas bon; c'est absolument extraordinaire.`
+
+> It is absolutely delicious ---> `C'est absolument délicieux` 
+
+> I think it is delicious ---> `Pour moi, c'est délicieux`
+
+> I think it is fantastic ---> `Pour moi, c'est fantastique`
+
