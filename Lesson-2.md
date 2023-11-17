@@ -60,3 +60,20 @@ But if you put `pour moi` at the start of a sentence in Franch, you can use it a
 
 > I think it is fantastic here. ---> `Pour moi, c'est fntastique ici.`
 
+## Lesson 2e
+
+Make a cue card
+
+> good ---> `bon`
+>
+> it is ---> `c'est`
+>
+> fantastic ---> `fantastique`
+>
+> absolutely---> `absolument`
+>
+> here ---> `ici`
+>
+> very ---> `très`
+>
+> it isn't ---> `ce ńest pas`
