@@ -100,3 +100,25 @@ Make a cue card
 
 > I think it is fantastic ---> `Pour moi, c'est fantastique`
 
+## Lesson 2g -- Practice
+
+> `C'est extraordinaire` ---> It is extraordinary
+
+> `C'est absolument beau` ---> It is absolutely beautiful
+
+> `Pour moi, c'est absolument beau ici` ---> I think it is abolutely beautiful here
+
+> `Pour moi, c'est bon` ---> I think it is good
+
+> `C'est très bon pour moi` ---> It is very good for me
+
+> `Ce nést pas pour moi` ---> It isn't for me
+
+> `C'est délicieux` ---> It is delicious
+
+> `Pour moi, c'est délicieux` ---> I think it is delicious
+
+> `C'est absolument beau ici` ---> It is absolutely beautiful here
+
+> `Ce nést pas très beau` ---> It isn't very beautiful
+
