@@ -122,7 +122,7 @@ Make a cue card
 
 > `Ce nést pas très beau` ---> It isn't very beautiful
 
-## Lesson 2h
+## Lesson 2h -- Practice
 
 > It isn't very good ---> `Ce nést pas très bon`
 
@@ -143,3 +143,25 @@ Make a cue card
 > It isn't very good here ---> `Ce nést pas très bon ici`
 
 > It is very good ---> `C'est très bon`
+
+## Lesson 2i -- Practice
+
+> `Ce nést pas bon ici` ---> It isn't good here
+
+> `Ce nést pas très bon` ---> It isn't very good
+
+> `C'est ici` ---> It is here
+
+> `C'est fantastique ici` ---> It is fantastic here
+
+> `Ce nést pas bon ici; c'est absolument fantastique` ---> It isn't good here; it is absolutely fantastic
+
+> `C'est absolument fantastique ici` ---> It is absolutely fantastic here
+
+> `Ce nést pas fantastique` ---> It isn't fantastic
+
+> `C'est bon ici` ---> It is good here
+
+> `C'est bon` ---> It is good
+
+> `C'est fantastique` ---> It is fantastic
