@@ -154,7 +154,7 @@ Make a cue card
 
 > `C'est fantastique ici` ---> It is fantastic here
 
-> `Ce nést pas bon ici; c'est absolument fantastique` ---> It isn't good here; it is absolutely fantastic
+> `Ce nést pas bon ici; c'est absolument fantastique` ---> It isn't good here; it is absolutely fantastic.
 
 > `C'est absolument fantastique ici` ---> It is absolutely fantastic here
 
@@ -165,3 +165,30 @@ Make a cue card
 > `C'est bon` ---> It is good
 
 > `C'est fantastique` ---> It is fantastic
+
+## Lesson 2j -- Practice
+
+> it is ---> `c'est`
+
+> here ---> `ici`
+
+> fantastic ---> `fantastique`
+
+> delicious ---> `délicieux`
+
+> it isn't ---> `ce nést pas`
+
+> good ---> `bon`
+
+> very ---> `très`
+
+> extraordinary ---> `extraordinaire`
+
+> I think ---> `pour moi`
+
+> beautiful ---> `beau`
+
+> for me ---> `pour moi`
+
+> absolutely ---> `absolument`
+
