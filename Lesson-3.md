@@ -21,3 +21,16 @@ E.g.
 **norma<u>l</u>** ---> normal
 
 > It is delicious but it isn't very good for me. ---> `C'est délicieux mais ce ńest pas très bon pour moi`
+
+## Lesson 3b
+
+2. `oui` ---> yes
+
+> Yes, it is for me ---> `Oui, c'est pour moi`
+
+> Yes, it is absolutely delicious. ---> `Oui, c'est absolument délicieux`
+
+> Yes, I think it is good ---> `Oui, pour moi, c'est bon`
+
+3. `merci` ---> thank you / thanks
+
