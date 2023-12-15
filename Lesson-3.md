@@ -34,3 +34,20 @@ E.g.
 
 3. `merci` ---> thank you / thanks
 
+## Lesson 3c
+
+> Yes, thank you, it is delicious ---> `Oui, merci, c'est délicieux` 
+
+> Yes, thank you, it is fantastic ---> `Oui, merci, c'est fantastique`
+
+> It is bery good, thanks ---> `C'est très bon, merci`
+
+> Yes, it is for me, thank you ---> `Oui, c'est pour moi, merci`
+
+4. `toujours` ---> always
+
+> It is always fantastic here ---> `C'est toujours fantastique ici`
+
+> It isn't always very good here. ---> `Ce ńest pas toujours très bon ici `
+
+>  I think it's always beautiful here ---> `Pour moi, c'est toujours beau ici`
